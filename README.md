@@ -1,0 +1,2 @@
+# suricata-kural
+Suricata Kurallar
